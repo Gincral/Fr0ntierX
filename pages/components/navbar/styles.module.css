@@ -1,0 +1,12 @@
+.nav_body {
+    background: #0D0D0D;
+    color: white;
+    height: 96px;
+    width: 100%;
+}
+
+.logo_img {
+    width: 195px;
+    height: 23px;
+    padding: 37px 40px 36px 40px;
+}
