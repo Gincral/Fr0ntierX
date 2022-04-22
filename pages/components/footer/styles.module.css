@@ -1,14 +1,16 @@
-.nav_body {
-    background: #0D0D0D;
+.footer_body {
+    background: #141417;
     color: white;
-    height: 96px;
+    height: 205px;
     width: 100%;
 }
-.content{
-    padding: 36px 40px 36px 40px;
-}
+
 .logo_img {
-    width: 195px;
-    height: 23px;
+    
+}
+
+.content{
+    text-align: center;
+    padding-top: 97px;
     
 }

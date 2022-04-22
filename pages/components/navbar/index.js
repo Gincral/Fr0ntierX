@@ -1,5 +1,5 @@
 
-import Logo from '../../../public/assets/logo.png'
+import Logo from '../../assets/logo.png'
 import styles from './styles.module.css';
 import Image from "next/image";
 
