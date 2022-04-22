@@ -56,10 +56,10 @@ export default function Body() {
                 <ExpandPanel title={"😀 Lorem ipsum"} open>
                     <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>
                     <div className={styles.contact_info}>
-                        <a href="https://www.google.ca" target="_blank" style={{ color: '#f35' }}>🔗 Share</a>
-                        <a href="https://www.google.ca" target="_blank" style={{ color: '#f35' }}>📱 Discord</a>
-                        <a href="https://www.google.ca" target="_blank" style={{ color: '#f35' }}>🔗 Instergram</a>
-                        <a href="https://www.google.ca" target="_blank">🐤 Twitter</a>
+                        <a href="https://www.google.ca" rel="noreferrer" target="_blank" style={{ color: '#f35' }}>🔗 Share</a>
+                        <a href="https://www.google.ca" rel="noreferrer" target="_blank" style={{ color: '#f35' }}>📱 Discord</a>
+                        <a href="https://www.google.ca" rel="noreferrer" target="_blank" style={{ color: '#f35' }}>🔗 Instergram</a>
+                        <a href="https://www.google.ca" rel="noreferrer" target="_blank">🐤 Twitter</a>
                     </div>
                 </ExpandPanel>
                 <div>
